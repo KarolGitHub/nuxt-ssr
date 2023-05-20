@@ -7,6 +7,6 @@
     "generate": "nuxt generate"
   },
   "dependencies": {
-    "nuxt": "^2.14.5"
+    "nuxt": "^2.16.3"
   }
 }
