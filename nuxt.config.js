@@ -1,4 +1,5 @@
 export default {
+  target: 'static',
   /*
    ** Head Property - https://nuxtjs.org/docs/2.x/features/meta-tags-seo
    */
