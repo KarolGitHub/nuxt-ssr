@@ -1,5 +1,5 @@
 export default {
-  target: "server",
+  target: "static",
   ssr: true,
   /*
    ** Head Property - https://nuxtjs.org/docs/2.x/features/meta-tags-seo
