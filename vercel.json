@@ -6,8 +6,7 @@
       "use": "@nuxtjs/vercel-builder",
       "config": {
         "internalServer": true,
-        "generateStaticRoutes": true,
-        "include": ["static"]
+        "generateStaticRoutes": true
       }
     }
   ]
