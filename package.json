@@ -4,9 +4,12 @@
     "dev": "nuxt",
     "build": "nuxt build",
     "start": "nuxt start",
-    "generate": "nuxt build && nuxt generate"
+    "generate": "nuxt generate"
   },
   "dependencies": {
     "nuxt": "^2.16.3"
+  },
+  "devDependencies": {
+    "@nuxtjs/vercel-builder": "^0.24.0"
   }
 }

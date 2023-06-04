@@ -1,6 +1,10 @@
 export default {
-  target: "static",
+  target: "server",
   ssr: true,
+  generate: {
+    subFolders: false,
+    fallback: "404.html"
+  },
   /*
    ** Head Property - https://nuxtjs.org/docs/2.x/features/meta-tags-seo
    */
