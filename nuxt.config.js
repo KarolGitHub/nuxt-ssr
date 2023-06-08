@@ -5,6 +5,7 @@ export default {
     subFolders: false,
     fallback: "404.html"
   },
+  buildModules: ["@nuxtjs/router"],
   /*
    ** Head Property - https://nuxtjs.org/docs/2.x/features/meta-tags-seo
    */
